@@ -107,5 +107,6 @@
   "bugs": {
     "url": "https://github.com/tangly/NotionNext/issues",
     "email": "tlyong1992@hotmail.com"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
